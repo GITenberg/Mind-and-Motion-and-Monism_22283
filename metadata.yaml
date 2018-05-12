@@ -1,0 +1,40 @@
+_repo: Mind-and-Motion-and-Monism_22283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Romanes, George John
+    aliases:
+    - Romanes, G.-J.
+    - Romanes, George J.
+    - Romanes, G. J.
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '7037'
+    url: http://www.gutenberg.org/2009/agents/7037
+    wikipedia: http://en.wikipedia.org/wiki/George_Romanes
+description: '"Of the contents of this little volume the section on Mind and Motion
+  which forms, in accordance with a suggestion of the author''s, a general introduction,
+  was delivered at Cambridge as the Rede Lecture in 1885, and was printed in the Contemporary
+  Review for June in that year. The chapter on The World as an Eject was published,
+  almost as it now stands, in the Contemporary Review for July, 1886. A paper on The
+  Fallacy of Materialism, of which Mr. Romanes incorporated the more important parts
+  in the Essay on Monism, was contributed to the Nineteenth Century for December,
+  1882. The rest was left in MS. and was probably written in 1889 or 1890"--Preface.
+  (PsycINFO Database Record (c) 2010 APA, all rights reserved).'
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2007-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monism'
+- !lcc 'BD'
+title: Mind and Motion and Monism
+url: http://www.gutenberg.org/ebooks/22283
